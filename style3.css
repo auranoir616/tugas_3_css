@@ -1,0 +1,17 @@
+.paragraf1{
+  background-color: orange;
+}
+
+.paragraf2{
+  color: white;
+  background-color: blue;
+}
+.paragraf3{
+  border: 1px solid;
+  background-color: white;
+  font-family: "courier new"
+}
+.paragraf4{
+  font-weight: bold;
+  background-color: grey;
+}
